@@ -5,6 +5,6 @@
 - 📫 How to reach me ...cccem568@gmail.com
 
 <!---
-cccem568/cccem568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cccem568/cccem568 is a special repository: its `README.md will appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
